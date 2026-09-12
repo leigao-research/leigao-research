@@ -1,0 +1,25 @@
+# Lei Gao
+
+Official public research identity and verification hub:
+https://leigao-research.github.io/leigao-research/
+
+Lei Gao is an AI Governance and Human Oversight researcher and Visiting Research Fellow at the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, 2026-2027.
+
+Research topics:
+- AI Governance
+- Human Oversight
+- Agentic AI
+- Responsible AI
+- System Dynamics
+- Algorithmic Friction
+- Smart Sustainable Cities
+- Digital Governance
+
+Verification sources on the site include:
+- Heidelberg University Visiting Research Fellow invitation (public redacted copy)
+- System Dynamics Society ISDC 2026 proceedings
+- Elsevier / Finance Research Letters
+- ITU smart sustainable cities and FG-AI4SSC institutional portals
+- Public GitHub research repositories
+
+Use the third-party links on the page to distinguish independently verified records from self-maintained research descriptions.
