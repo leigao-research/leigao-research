@@ -1,25 +1,33 @@
-# Lei Gao
+# Lei Gao / 高磊
 
-Official public research identity and verification hub:
-https://leigao-research.github.io/leigao-research/
+Primary public research identity hub:
+https://lei-gao.com/
 
-Lei Gao is an AI Governance and Human Oversight researcher and Visiting Research Fellow at the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, 2026-2027.
+Chinese pages:
+- Simplified Chinese: https://lei-gao.com/zh-cn.html
+- Traditional Chinese: https://lei-gao.com/zh-hant.html
 
-Research topics:
+Lei Gao (高磊) is an AI Governance and Human Oversight researcher and Visiting Research Fellow at the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, 2026–2027.
+
+Core topics:
 - AI Governance
-- Human Oversight
-- Agentic AI
+- Operational Human Oversight
+- Agentic AI Governance
 - Responsible AI
+- Smart Sustainable Cities
 - System Dynamics
 - Algorithmic Friction
-- Smart Sustainable Cities
 - Digital Governance
 
-Verification sources on the site include:
-- Heidelberg University Visiting Research Fellow invitation (public redacted copy)
-- System Dynamics Society ISDC 2026 proceedings
-- Elsevier / Finance Research Letters
-- ITU smart sustainable cities and FG-AI4SSC institutional portals
-- Public GitHub research repositories
+Public records and source links include:
+- Elsevier / Finance Research Letters, DOI 10.1016/j.frl.2025.109135
+- International System Dynamics Conference 2026 schedule
+- FG-TIDA public Theme #16 working thread
+- Public self-maintained overview of formal input FGAI4SSC-I-015, with an explicit non-adoption disclaimer
+- Official ITU FG-AI4SSC / cities and U4SSC institutional context
+- Heidelberg institutional context pages
 
-Use the third-party links on the page to distinguish independently verified records from self-maintained research descriptions.
+Verification guidance:
+https://lei-gao.com/verification.html
+
+The formal Heidelberg invitation document is held privately and is not a standing public download. Distinguish independently hosted records from self-maintained research descriptions.

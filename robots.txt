@@ -1,10 +1,13 @@
 User-agent: *
 Allow: /
 
+User-agent: Baiduspider
+Allow: /
+
 User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://leigao-research.github.io/leigao-research/sitemap.xml
+Sitemap: https://lei-gao.com/sitemap.xml
