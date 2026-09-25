@@ -1,26 +1,19 @@
-# Lei Gao / 高磊
+# Lei Gao Public Research Profile
 
-**AI Governance & Human Oversight Researcher**  
-Visiting Research Fellow, Centre for Asian and Transcultural Studies (CATS), Heidelberg University · 2026–2027
+Version 2.0 — 26 September 2026.
 
-🌐 **Primary public profile:** https://lei-gao.com/
+Static GitHub Pages source for https://lei-gao.com/.
 
-- 简体中文: https://lei-gao.com/zh-cn.html
-- 繁體中文: https://lei-gao.com/zh-hant.html
-- Research & public outputs: https://lei-gao.com/research.html
-- Verification & sources: https://lei-gao.com/verification.html
+## v2.0 changes
 
-## Research focus
+- New 2026 professional portrait and Open Graph image
+- Heidelberg University Bibliography (heiBIB) author record
+- ORCID 0009-0000-2112-8394
+- Academic / project email separation
+- FGAI4SSC-I-015 WG4 process update
+- U4SSC-DT-WG8-DOC039 contribution
+- Updated FG-TIDA Theme #16 framing
+- English / Simplified Chinese / Traditional Chinese coverage
+- Updated schema.org identity graph, sitemap and llms.txt
 
-Operational Human Oversight · Agentic AI Governance · Responsible AI · Smart Sustainable Cities · System Dynamics · Digital Governance
-
-## Selected public records
-
-- **Finance Research Letters** — *CEO digital background and corporate digitalization: the role of regional policy* — https://doi.org/10.1016/j.frl.2025.109135
-- **ISDC 2026** — *Algorithmic Friction and Yin-Yang Cybernetics* — https://isdc.systemdynamics.org/schedule/tabular?day=2
-- **FG-TIDA Theme #16** — https://github.com/FG-TIDA/themes/issues/16
-- **FG-AI4SSC FGAI4SSC-I-015 research overview** — https://github.com/leigao-research/human-oversight-research/blob/main/smart-cities/FGAI4SSC-I-015-overview.md
-
-## Source policy
-
-This repository maintains Lei Gao's public identity hub. It distinguishes independent publisher / conference / institutional records from self-maintained research descriptions. The formal Heidelberg invitation is kept private and is not used as a standing public download.
+The site deliberately distinguishes independently hosted sources, institutional context, working-group contributions and self-maintained research descriptions.
