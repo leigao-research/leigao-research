@@ -19,11 +19,18 @@ Core topics:
 - Algorithmic Friction
 - Digital Governance
 
+Stable identity and institutional links:
+- Heidelberg University Bibliography (heiBIB) author record: https://heibib.ub.uni-heidelberg.de/person/1420216929
+- ORCID: https://orcid.org/0009-0000-2112-8394
+- Academic email: lei.gao@uni-heidelberg.de
+- AI governance / international project email: lei.gao@idgc-geneva.org
+
 Public records and source links include:
 - Elsevier / Finance Research Letters, DOI 10.1016/j.frl.2025.109135
 - International System Dynamics Conference 2026 schedule
 - FG-TIDA public Theme #16 working thread
-- Public self-maintained overview of formal input FGAI4SSC-I-015, with an explicit non-adoption disclaimer
+- Formal input FGAI4SSC-I-015; subsequently assigned to WG4 for follow-up within the Focus Group process. WG assignment does not imply adoption or endorsement.
+- U4SSC-DT-WG8-DOC039 — Operational Human Oversight, described as a working-group contribution / document, not as a published standard or endorsement
 - Official ITU FG-AI4SSC / cities and U4SSC institutional context
 - Heidelberg institutional context pages
 
