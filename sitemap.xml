@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://lei-gao.com/</loc><lastmod>2026-09-13</lastmod></url>
-  <url><loc>https://lei-gao.com/zh-cn.html</loc><lastmod>2026-09-13</lastmod></url>
-  <url><loc>https://lei-gao.com/zh-hant.html</loc><lastmod>2026-09-13</lastmod></url>
-  <url><loc>https://lei-gao.com/research.html</loc><lastmod>2026-09-13</lastmod></url>
-  <url><loc>https://lei-gao.com/verification.html</loc><lastmod>2026-09-13</lastmod></url>
+<url><loc>https://lei-gao.com/</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/research.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/verification.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-cn.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-cn-research.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-cn-verification.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-hant.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-hant-research.html</loc><lastmod>2026-09-26</lastmod></url>
+<url><loc>https://lei-gao.com/zh-hant-verification.html</loc><lastmod>2026-09-26</lastmod></url>
 </urlset>
